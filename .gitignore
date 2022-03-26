@@ -218,4 +218,7 @@ $RECYCLE.BIN/
 src/static/sheets/*
 !src/static/sheets/banco_central_test.xlsx
 
+# Screenshots
+src/static/images/screenshots/*
+
 # End of https://www.toptal.com/developers/gitignore/api/dotenv,node,macos,linux,windows
