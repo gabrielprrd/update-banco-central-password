@@ -1,0 +1,16 @@
+{
+  "name": "banco-central-automation",
+  "version": "1.0.0",
+  "description": "Web scrapper to update passwords at Banco Central website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "Gabriel Afonso",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^13.4.0",
+    "xlsx": "^0.18.2"
+  }
+}
